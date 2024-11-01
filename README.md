@@ -6,6 +6,6 @@ FEATURES
 
 ~ Generates passwords with specified length
 
-~ Option to include/exclude numbers, symbols, uppercase, and lowercase letters
+~ Option to regenerate the password as many times you want
 
 ~ Easy-to-use command-line interface
