@@ -2,7 +2,7 @@ PASSWIRD GENERATOR
 
 "A simple and customizable command-line tool to generate secure passwords."
 
-FEATURES
+# FEATURES
 
 ~ Generates passwords with specified length
 
